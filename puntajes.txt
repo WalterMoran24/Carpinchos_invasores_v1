@@ -1,0 +1,5 @@
+walker,100
+walter moran 16,70
+galm1,50
+walter,30
+walter,24
